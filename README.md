@@ -1,6 +1,6 @@
 # Task 1
 
-This repository is created to submit my first task assigned by GUVI
+**This repository is created to submit my first task assigned by GUVI**
 
 It has two tasks:
 
@@ -12,5 +12,7 @@ It has two tasks:
 
 - Link for the blog [CLICK HERE](https://medium.com/@vcbarath02/objects-and-its-internal-representation-in-javascript-e3680dd9afcf)
 - Here we discussed about internal representation in Javascript
+
+
 
 Thanks on viewing and evaluating my first task,awaiting for your feedback.
